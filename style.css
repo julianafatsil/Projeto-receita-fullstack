@@ -39,13 +39,9 @@ section + section {
 }
 
 h1 {
-  fonte-size: 40px;
+  font-size: 40px;
   color: #291B1A;
 }
-
-/* p {
-  padding: 6px 0;
-} */
 
 h2 {
   font-size: 24px;
