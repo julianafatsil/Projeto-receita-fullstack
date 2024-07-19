@@ -10,6 +10,7 @@
 
 body {
   background-image: url(assets/bg.jpg);
+  background-color: black;
   background-size: cover;
 }
 
@@ -60,5 +61,8 @@ footer {
   color: #F0E8C2;
   text-align: center;
   padding-bottom: 48px;
+}
 
+footer img {
+  vertical-align: middle;
 }
